@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shashank
 
-<!--
-**Shashank-1302/Shashank-1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/shashank1302/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+<a href="https://twitter.com/iamshashank1302">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a>
+<a href="mailto:shashankshekhar1302@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<a href="https://www.instagram.com/shashank.1302/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
