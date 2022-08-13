@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/shashank.1302/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Shashank-1302.Shashank-1302" alt="visitor badge"/>
 
 <br />
 <br />
